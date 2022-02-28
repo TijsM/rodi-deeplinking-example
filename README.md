@@ -1,4 +1,5 @@
 # rodi-deeplinking-example
+Test it out at: https://expo.dev/@tijsm/rodi-deeplinking
 
 Documentation on Rodi Deeplinking: https://rodi.app/docs/link
 
